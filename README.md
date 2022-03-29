@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @enaranjosaca
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Eduardo Naranjo
+- 👀 I’m interested in Front-End Cloud Technologies
+- 🌱 I’m currently learning React JS
+- 💞️ I’m looking to collaborate in cloud technologies, Front End 
+- 📫 How to reach me @enaranjo_sistema
 
 <!---
 enaranjosaca/enaranjosaca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
